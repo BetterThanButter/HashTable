@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agavrilenko/CLionProjects/Shell/Book_2.0/main.cpp
+iostream
+-
+sys/mman.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+unistd.h
+-
+cstring
+-
+vector
+-
+limits.h
+-
+

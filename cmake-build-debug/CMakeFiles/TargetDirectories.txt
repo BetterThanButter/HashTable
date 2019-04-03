@@ -1,0 +1,3 @@
+/home/agavrilenko/CLionProjects/Shell/Book_2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/agavrilenko/CLionProjects/Shell/Book_2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/agavrilenko/CLionProjects/Shell/Book_2.0/cmake-build-debug/CMakeFiles/Book_2_0.dir
